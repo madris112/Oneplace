@@ -1,2 +1,2 @@
 # Oneplace
-An app to find review about best rated movies or shows on various ott platforms.
+This app suggests you the currently top trending movies on various platforms such as netflix, amazon prime etc.
